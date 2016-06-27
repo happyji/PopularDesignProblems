@@ -1,4 +1,4 @@
-package ElevatorSystem;
+package populardesignProblems.ElevatorSystem;
 
 import java.util.HashSet;
 

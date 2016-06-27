@@ -1,4 +1,4 @@
-package ElevatorSystem;
+package populardesignProblems.ElevatorSystem;
 
 public enum ElevatorStatus {
     MOVING,
