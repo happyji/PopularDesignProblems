@@ -9,6 +9,7 @@ import java.util.List;
 public class GamePaletteCenter
 {
     List<Card> palette;
+    public static String myStr = "hi tejshri";
 
 
     GamePaletteCenter(){

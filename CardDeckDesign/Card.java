@@ -1,4 +1,5 @@
 package populardesignProblems.CardDeckDesign;
+import populardesignProblems.CardDeckDesign.GamePaletteCenter.*;
 
 /**
  * Created by PPandey on 6/27/2016.
@@ -12,6 +13,7 @@ public class Card implements Comparable
     {
         suit = s;
         face = f;
+
     }
 
     public Suit getSuit() {
