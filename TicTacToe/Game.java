@@ -1,5 +1,7 @@
 package populardesignProblems.TicTacToe;
 
+import populardesignProblems.TicTacToe.game.GamePlate;
+
 /**
  * Created by PPandey
  */

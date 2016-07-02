@@ -1,11 +1,14 @@
-package populardesignProblems.TicTacToe;
+package populardesignProblems.TicTacToe.player;
+
+import populardesignProblems.TicTacToe.Move;
+import populardesignProblems.TicTacToe.Player;
 
 import java.util.Scanner;
 
 /**
  * Created by PPandey on 7/2/2016.
  */
-public class HumanPlayer extends Player{
+public class HumanPlayer extends Player {
     @Override
     Move play() {
         Scanner sc = new Scanner(System.in);
