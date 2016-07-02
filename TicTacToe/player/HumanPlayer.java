@@ -1,7 +1,6 @@
 package populardesignProblems.TicTacToe.player;
 
-import populardesignProblems.TicTacToe.Move;
-import populardesignProblems.TicTacToe.Player;
+import populardesignProblems.TicTacToe.game.Move;
 
 import java.util.Scanner;
 

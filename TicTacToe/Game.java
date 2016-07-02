@@ -1,5 +1,6 @@
 package populardesignProblems.TicTacToe;
 
+import populardesignProblems.TicTacToe.game.GameAdministrator;
 import populardesignProblems.TicTacToe.game.GamePlate;
 
 /**
@@ -7,9 +8,11 @@ import populardesignProblems.TicTacToe.game.GamePlate;
  */
 public class Game {
     GamePlate gamePlate;
+    GameAdministrator gameAdministrator;
+
 
     Game(){
-        gamePlate = new GamePlate();
+      gamePlate = new GamePlate();
     }
 
 

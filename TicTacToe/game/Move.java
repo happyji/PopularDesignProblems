@@ -6,5 +6,4 @@ package populardesignProblems.TicTacToe.game;
 public enum Move {
     CrossMove,
     CircleMove
-
 }

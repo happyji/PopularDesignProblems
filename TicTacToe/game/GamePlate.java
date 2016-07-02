@@ -8,11 +8,21 @@ import populardesignProblems.TicTacToe.game.Cell;
 public class GamePlate {
 
     Cell[][] plate;
+    Integer noOfCellFilled;
 
-    GamePlate()
+
+    public GamePlate()
     {
         plate = new Cell[3][3];
+        noOfCellFilled =0;
     }
+
+    boolean isFull()
+    {
+       return noOfCellFilled >= 9;
+    }
+
+
 
 
 }

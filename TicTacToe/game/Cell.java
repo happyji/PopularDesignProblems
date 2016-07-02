@@ -1,7 +1,5 @@
 package populardesignProblems.TicTacToe.game;
 
-import populardesignProblems.TicTacToe.Move;
-
 /**
  * Created by PPandey
  */
